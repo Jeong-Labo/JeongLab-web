@@ -1,0 +1,26 @@
+/* モバイル用のフォントサイズとかが全部入ってる */
+.title {
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    margin-bottom: 10px;
+    font-size: 0.85rem;
+}
+
+.big {
+    font-size: 2rem;
+}
+
+.member_desc {
+    font-size: 0.75rem;
+}
+
+.sp_br{
+    display:inherit;
+}
+
+#Aboutus img {
+    display: none;
+}
